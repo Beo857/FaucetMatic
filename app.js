@@ -30,3 +30,7 @@ form.addEventListener('submit', e => {
       console.error(`Faucet sending failed: ${error}`);
     });
 });
+<<<<<<< HEAD
+=======
+
+>>>>>>> 660e281f2abaa8080f90d94296eeeb2b435410d0
