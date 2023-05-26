@@ -1,0 +1,29 @@
+{
+  "name": "faucetmatic",
+  "version": "1.0.0",
+  "description": "Matic Facuet Earn 0.6 Polygon Every 15/S",
+  "main": "app.js",
+  "dependencies": {
+    "web3": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beo857/FaucetMatic.git"
+  },
+  "keywords": [
+    "Free",
+    "Matic",
+    "Free",
+    "Polygon"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beo857/FaucetMatic/issues"
+  },
+  "homepage": "https://github.com/Beo857/FaucetMatic#readme"
+}
